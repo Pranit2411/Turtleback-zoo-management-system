@@ -1,39 +1,62 @@
-# Turtleback-zoo-management-system
+# Turtleback Zoo Management System
 
+## Project Overview 🚀
 
-**GOALS:**
-The goal of this phase is to incorporate all the learning and plans to form a DATABASE SCHEMA, and then use the same schema to create an interface for users (employees of the zoo).
-Decided to create a web-based application that is going to showcase the use of the schema, we also need to make sure that it provides support for all the below mentioned services that are considered to be functional requirements:
-● Animal Shows.
-● Concessions.
-● Zoo Admissions.
-Moreover, the above mentioned services needs to provide feasibility to the user with the ability to:
-● Track activities.
-● Manage assets.
-● Generate reports.
+The Turtleback Zoo Management System is a web-based application designed to streamline zoo operations and provide support for essential services. The project incorporates a well-defined database schema to ensure efficient data management and a user-friendly interface for zoo employees.
 
-**PROJECT IMPLEMENTATION:**
-The implementation of the project is done on the below mentioned notes.
-● Design a user-friendly web-based application using HTML, CSS and PHP.
-● PHP to ensure seamless communication between the front-end and the back-end.
-● MySQL is used as a database management system to store all the needed records.
-● PHP scripts were integrated with MySQL to ensure that data could be seamlessly retrieved, stored, and manipulated as needed.
-The above-mentioned notes allowed us to develop a robust and scalable system that could handle large volumes of data while ensuring high levels of performance and reliability.
+## Goals 🎯
 
-**TOOLS & SOFTWARES USED:** ● XAMPP:
-○ To Host Apache Server and MySQL. ● Visual Studio Code:
-○ Code-editor to handle HTML, CSS and PHP code.
-● GITHUB
+The primary goals of this phase include:
 
-**DIFFICULTIES:**
-● Representing data from MySQL database at frontend using PHP.
-● Error handling and debugging the PHP code if any record is inserted, updated or removed from the database.
+- Incorporating learning and plans to form a robust DATABASE SCHEMA.
+- Creating a web-based application showcasing the schema.
+- Providing functional requirements for Animal Shows, Concessions, and Zoo Admissions.
+- Enabling users to track activities, manage assets, and generate reports.
 
-REFER ATTACHMENTS FOR THE BELOW:
+## Project Implementation 🛠️
 
-**● USER Guide.**
-● USE of Program.
-● SQL files:
-○ CREATE TABLES
-○ INSERT DATA INTO TABLES
-● Source Code.
+### Technologies Used:
+
+- **HTML, CSS, PHP**: Designing a user-friendly web interface.
+- **MySQL**: Database management system for storing records.
+- **XAMPP**: Hosting Apache Server and MySQL.
+- **Visual Studio Code**: Code editor for handling HTML, CSS, and PHP code.
+- **GitHub**: Version control and collaborative development.
+
+### Implementation Notes:
+
+- Designed a seamless web-based application using HTML, CSS, and PHP.
+- Integrated PHP for communication between the front-end and back-end.
+- Utilized MySQL as a robust database management system.
+- PHP scripts were integrated with MySQL for seamless data retrieval, storage, and manipulation.
+- Developed a scalable system capable of handling large volumes of data with high performance and reliability.
+
+## Functional Requirements 📋
+
+The system provides support for:
+
+- **Animal Shows**
+- **Concessions**
+- **Zoo Admissions**
+
+Users can:
+
+- Track activities
+- Manage assets
+- Generate reports
+
+## Difficulties Faced 🤔
+
+- Representing data from MySQL database at the frontend using PHP.
+- Error handling and debugging PHP code for database operations.
+
+## Attachments 📂
+
+- User Guide
+- Use of Program
+- SQL Files:
+  - CREATE TABLES
+  - INSERT DATA INTO TABLES
+- Source Code
+
+Feel free to explore the project, refer to the user guide for instructions, and dive into the source code for a detailed understanding of the implementation. Your feedback is highly appreciated! 🌐🦓
